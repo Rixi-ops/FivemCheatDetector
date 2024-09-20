@@ -1,0 +1,20 @@
+﻿  FiveM Cheat Detector.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(13,43): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(13,55): error C2039: 'recursive_directory_iterator': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(13,30): error C2530: 'entry': references must be initialized
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(13,30): error C3531: 'entry': a symbol whose type contains 'auto' must have an initializer
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(13,36): error C2143: syntax error: missing ';' before ':'
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(13,55): error C3861: 'recursive_directory_iterator': identifier not found
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(13,98): error C2143: syntax error: missing ';' before ')'
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(24,27): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(24,39): error C2039: 'filesystem_error': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\vector(29,1):
+      see declaration of 'std'
+  
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(24,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(24,55): error C2143: syntax error: missing ',' before '&'
+C:\Users\felix\source\repos\FiveM Cheat Detector\FiveM Cheat Detector\FiveM Cheat Detector.cpp(25,59): error C2065: 'e': undeclared identifier
